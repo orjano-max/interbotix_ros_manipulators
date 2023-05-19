@@ -16,7 +16,7 @@
   <depend>interbotix_xsarm_descriptions</depend>
   <depend>interbotix_xsarm_sim</depend>
   <depend>interbotix_xsarm_moveit</depend>
-  <depend>interbotix_xsarm_perception</depend>
+  <!-- <depend>interbotix_xsarm_perception</depend> -->
   <depend>interbotix_xsarm_ros_control</depend>
 
   <test_depend>ament_lint_auto</test_depend>
